@@ -1,0 +1,19 @@
+{
+  "name": "chem-end-of-year",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/twanh/chemEndOfYear.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/twanh/chemEndOfYear/issues"
+  },
+  "homepage": "https://github.com/twanh/chemEndOfYear#readme"
+}
