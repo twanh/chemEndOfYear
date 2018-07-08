@@ -157,13 +157,10 @@ body {
 }
 
 /* --------------- */
-/* Footer Styling */
+/* final Styling */
 /* --------------- */
-.footer{
+.final{
   background-color: #bbdefb;
-  color: black;
-}
-.footer-text {
-  font-size: 12px;
+  padding: 50px;
   text-align: center;
 }
